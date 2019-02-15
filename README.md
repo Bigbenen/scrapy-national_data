@@ -12,4 +12,4 @@
 ### 抓取结果
 >抓取到的数据均为json格式，未做抽取，后续处理数据时可参考网站的图表。
 
-<img align="center" src="https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png" width="300" height="500">
+<img align="right" src="https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png" width="300" height="500">
