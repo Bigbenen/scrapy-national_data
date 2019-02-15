@@ -12,3 +12,5 @@
 ### 抓取结果
 
 ![](https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png)
+
+<img src="https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png" width="300" height="500">
