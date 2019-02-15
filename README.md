@@ -10,7 +10,6 @@
 * 该站不检查Cookie,只限制ip访问频率，且封禁ip时间较长；
 
 ### 抓取结果
+>抓取到的数据均为json格式，未做抽取，后续处理数据时可参考网站的图表。
 
-![](https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png)
-
-<img src="https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png" width="300" height="500">
+<img align="center" src="https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png" width="300" height="500">
