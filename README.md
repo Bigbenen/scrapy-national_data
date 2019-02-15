@@ -10,4 +10,4 @@ ajax请求json数据，请求url不变，只改变请求参数，构造参数有
 
 抓取结果：
 
-![Image text](scrapy-national_data/aa.png)
+![Image text](https://github.com/Bigbenen/scrapy-national_data/blob/master/aa.png)
